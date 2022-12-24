@@ -1,5 +1,5 @@
 
-[![MasterHead align="center"](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)]
+![MasterHead align="center"](https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif)
 
 <h1 align="center">Hi 👋, I'm Erwin Rosales</h1>
 <h3 align="center">A passionate full stack Web Developer</h3>
